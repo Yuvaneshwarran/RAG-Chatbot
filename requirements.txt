@@ -1,0 +1,17 @@
+torch>=2.1.0
+transformers>=4.37.2
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+pandas>=2.1.4
+PyPDF2>=3.0.1
+python-docx>=1.0.1
+pytesseract>=0.3.10
+opencv-python>=4.9.0.80
+pillow>=10.2.0
+moviepy>=1.0.3
+numpy>=1.26.3
+flask>=3.0.0
+nltk>=3.8.1
+whisper>=1.1.10
+pydub>=0.25.1
+SpeechRecognition>=3.10.0
