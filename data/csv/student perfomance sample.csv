@@ -1,0 +1,30 @@
+Student_ID,First_Name,Last_Name,Email,Gender,Age,Department,Attendance (%),Midterm_Score,Final_Score,Assignments_Avg,Quizzes_Avg,Participation_Score,Projects_Score,Total_Score,Grade,Study_Hours_per_Week,Extracurricular_Activities,Internet_Access_at_Home,Parent_Education_Level,Family_Income_Level,Stress_Level (1-10),Sleep_Hours_per_Night
+S1000,Omar,Williams,student0@university.com,Female,22,Engineering,52.29,55.03,57.82,84.22,74.06,3.99,85.9,56.09,F,6.2,No,Yes,High School,Medium,5,4.7
+S1001,Maria,Brown,student1@university.com,Male,18,Engineering,97.27,97.23,45.8,,94.24,8.32,55.65,50.64,A,19,No,Yes,None,Medium,4,9
+S1002,Ahmed,Jones,student2@university.com,Male,24,Business,57.19,67.05,93.68,67.7,85.7,5.05,73.79,70.3,D,20.7,No,Yes,Master's,Low,6,6.2
+S1003,Omar,Williams,student3@university.com,Female,24,Mathematics,95.15,47.79,80.63,66.06,93.51,6.54,92.12,61.63,A,24.8,Yes,Yes,High School,High,3,6.7
+S1004,John,Smith,student4@university.com,Female,23,CS,54.18,46.59,78.89,96.85,83.7,5.97,68.42,66.13,F,15.4,Yes,Yes,High School,High,2,7.1
+S1005,Liam,Brown,student5@university.com,Male,21,Engineering,,78.85,43.53,71.4,52.2,6.38,67.29,62.08,B,8.5,Yes,Yes,PhD,High,1,5
+S1006,Ahmed,Jones,student6@university.com,Male,24,Business,57.6,66.26,89.07,84.52,98.4,2.3,93.65,83.21,F,21.3,No,Yes,,Low,5,6.4
+S1007,Ahmed,Smith,student7@university.com,Male,19,Engineering,51.91,45.67,73.96,80.12,95.9,3.73,93.24,81.93,F,27.3,Yes,No,None,Medium,4,4.3
+S1008,Omar,Smith,student8@university.com,Female,21,CS,85.97,84.42,90.87,57.05,56.33,0.51,94.01,95.62,A,8,No,No,Bachelor's,Low,9,8.8
+S1009,Sara,Smith,student9@university.com,Female,22,Engineering,64.01,87.96,98.47,96.98,55.63,5.88,78.6,84.99,A,9.6,No,Yes,None,Medium,10,6.4
+S1010,John,Smith,student10@university.com,Female,23,CS,85.72,83.52,97.43,67.29,76.95,4.59,97.62,58.25,A,13.2,No,Yes,High School,Low,1,4.1
+S1011,Omar,Williams,student11@university.com,Female,20,Engineering,77.75,52.14,91.37,52.24,87.85,7.61,90.95,87.58,C,21.3,No,Yes,Master's,Low,9,7
+S1012,John,Davis,student12@university.com,Male,21,Engineering,55.44,81.39,40.66,65.02,69.11,2.06,70.78,59.06,F,18.1,No,Yes,Master's,High,8,4.5
+S1013,John,Williams,student13@university.com,Male,18,Business,96.61,40.64,93.14,66.78,56.82,4.37,81.48,77.93,A,22.8,No,Yes,None,Medium,10,7.9
+S1014,Liam,Williams,student14@university.com,Male,19,Engineering,72.62,58.31,44.5,54.64,75.53,1.81,56.09,53.85,B,5.8,No,Yes,None,Low,4,8.8
+S1015,Ahmed,Jones,student15@university.com,Male,18,CS,86.72,63.93,91.07,81,66.88,6.14,77.57,52.37,A,25.3,No,Yes,None,High,2,8.6
+S1016,Maria,Jones,student16@university.com,Female,21,CS,75.05,90.11,56.81,67.34,67.59,8.48,63.16,73.21,F,29.7,No,Yes,None,Low,3,6.1
+S1017,Liam,Davis,student17@university.com,Female,23,Business,80.22,63.42,76.6,81.46,82.25,7.65,64.18,55.25,F,6.2,No,No,PhD,Medium,10,7.6
+S1018,Liam,Jones,student18@university.com,Male,20,CS,65.14,40.68,42.28,50.34,94.28,9.44,56.29,65.33,B,17.4,No,Yes,None,Medium,9,4.8
+S1019,John,Johnson,student19@university.com,Male,20,Engineering,60.02,61.14,86.27,99.1,77.93,9.72,67.91,66.94,D,23.5,Yes,Yes,PhD,Low,10,4.4
+S1020,Emma,Davis,student20@university.com,Male,18,CS,77.13,69.94,46.7,,84.38,7.72,74.07,88.47,D,16.9,No,Yes,High School,Medium,2,8.1
+S1021,Ahmed,Jones,student21@university.com,Male,22,Business,72.01,96.94,64.64,82.97,83,2.87,80.02,66.63,C,19.8,No,Yes,None,Low,8,7.5
+S1022,Sara,Davis,student22@university.com,Male,22,Engineering,69.51,96.46,89.05,85.79,77.56,2.19,65.24,74.72,C,28,Yes,Yes,None,Low,10,8.5
+S1023,Liam,Williams,student23@university.com,Female,23,CS,83.63,50.85,81.72,58.58,65.54,4.48,89.61,88.63,D,18.5,No,Yes,Master's,Low,1,8.6
+S1024,Maria,Williams,student24@university.com,Female,20,CS,84.53,51.11,40.36,55.59,68.89,9.94,76.05,60.24,A,10.9,Yes,Yes,High School,Low,4,5.7
+S1025,Emma,Davis,student25@university.com,Male,18,Business,52.3,49.8,64.18,57.63,65.79,4.13,81.9,90.24,C,23.5,No,Yes,High School,High,3,5.6
+S1026,Emma,Johnson,student26@university.com,Male,18,Engineering,66.94,87.34,42.52,62.34,95.87,1.99,63.91,91.59,A,14.4,No,Yes,None,Low,10,6.2
+S1027,Sara,Johnson,student27@university.com,Male,18,Business,70.59,40.36,80.41,58.41,91.33,9.44,90.71,99.44,D,12.1,Yes,Yes,,Medium,2,7.3
+S1028,Liam,Davis,student28@university.com,Female,21,Business,54.84,47.63,98.14,83.7,78.97,3.86,81.21,72.2,D,11.2,Yes,Yes,Bachelor's,Low,3,4
